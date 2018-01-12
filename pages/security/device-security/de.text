@@ -14,7 +14,7 @@ Schwierigkeit: Einfach bis Schwer
 * Mittel: LUKS-Verschlüsselung auf LVM.
 * Mittel: ecryptfs über ausgewählte Dateien/Ordner.
 * Schwer: Verschlüsselung der ganzen Festplatten, wobei die Schlüsseldatei auf einem anderen Gerät gespeichert wird (wie einem USB-Stick).
-* Am Schwersten: Stenographische Methoden.
+* Am Schwersten: steganographische Methoden.
 
 h1. Persönliche Firewall
 
